@@ -1,32 +1,24 @@
 {
-  "Note_For_appzy_interstialStatus":" 0 - off, 1 - on, 2 - on Demand",
+  "Note_For_appzy_interstialStatus": " 0 - off, 1 - on, 2 - on Demand",
   "data": {
-
     "appzy_advShowStatus": "1",
     "appzy_appOpenStatus": "1",
-
     "appzy_appReviewVersionCodeAdsOnOff": "0",
-
-    
     "appzy_appUpdateTransferLink": "https://play.google.com/store/apps/details?id=com.vehicleregistrationdetails.rtovehicleinformation.drivinglicenceapplyonline",
     "appzy_appUpdateDialog": "0",
     "appzy_appVerCode": "4",
-    
     "appzy_interstialStatus": "2",
     "appzy_nativeStatus": "1",
     "appzy_bannerStatus": "1",
     "appzy_nativeOrBannerBigAd": "2",
     "appzy_nativeOrBannerSmallAd": "1",
-
     "appzy_nativeBigOnDemandAd": "1",
     "appzy_bannerBottomOnDemandAd": "1",
     "appzy_load_otherAd_beforeAd": "0",
-
     "appzy_appOpenId": "ca-app-pub-3940256099942544/9257395921",
     "appzy_bannerId": "ca-app-pub-3940256099942544/9214589741",
     "appzy_interstitialId": "ca-app-pub-3940256099942544/1033173712",
     "appzy_nativeId": "ca-app-pub-3940256099942544/2247696110",
-
     "appzy_forwardClick": "3",
     "appzy_backClick": "0",
     "appzy_securityWarning": "1",
@@ -50,9 +42,128 @@
     "appzy_otherAppOpenStatus": "0",
     "appzy_otherInterstitialStatus": "0",
     "appzy_otherNativeBannerStatus": "0",
-
- 
-    "appzy_otherAdData": [
+    "appzy_screenAds": {
+      "home": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "audio_activity": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "all_audio_file": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "all_audio_folder": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "video_activity": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "view_video": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "output": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "creation_video_open": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "preview_audio": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "video_trim": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "image_folder": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "image_file": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "image_save": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "music": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "edit2": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "animation_text": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "extra_bg": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "gallery_main": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "gallery_album_display": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      },
+      "gallery_image_display": {
+        "nativeId": "ca-app-pub-3940256099942544/2247696110",
+        "bannerId": "ca-app-pub-3940256099942544/9214589741",
+        "nativeEnabled": 1,
+        "bannerEnabled": 1
+      }
+    }"appzy_otherAdData": [
       {
         "appzy_cust_name": "",
         "appzy_cust_url": "",
@@ -64,4 +175,4 @@
       }
     ]
   }
-} 
+}
