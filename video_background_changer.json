@@ -163,7 +163,8 @@
         "nativeEnabled": "1",
         "bannerEnabled": "1"
       }
-    }"appzy_otherAdData": [
+    },
+    "appzy_otherAdData": [
       {
         "appzy_cust_name": "",
         "appzy_cust_url": "",
