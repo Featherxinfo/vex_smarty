@@ -1,1 +1,38 @@
+{
+  "data": {
+    "scroll_advShowStatus": "1",
+    "scroll_appOpenStatus": "1",
 
+    "scroll_appReviewVersionCodeAdsOnOff": "0",
+
+    "scroll_appUpdateDialog": "0",
+    "scroll_appVerCode": "0",
+    "scroll_appUpdateTransferLink": "https://play.google.com/store/apps/details",
+
+    "scroll_privacyPolicy": "https://sites.google.com/view/featherx/home",
+    
+    "scroll_appOpenId": "ca-app-pub-3940256099942544/9257395921",
+    "scroll_screenAds": {
+      "home": {
+        "bannerId": "ca-app-pub-3940256099942544/6300978111",
+        "bannerEnabled": "1"
+      },
+      "goals": {
+        "bannerId": "ca-app-pub-3940256099942544/6300978111",
+        "bannerEnabled": "1"
+      },
+      "trophies": {
+        "bannerId": "ca-app-pub-3940256099942544/6300978111",
+        "bannerEnabled": "1"
+      },
+      "insights": {
+        "bannerId": "ca-app-pub-3940256099942544/6300978111",
+        "bannerEnabled": "1"
+      },
+      "settings": {
+        "bannerId": "ca-app-pub-3940256099942544/6300978111",
+        "bannerEnabled": "1"
+      }
+    }
+  }
+}
