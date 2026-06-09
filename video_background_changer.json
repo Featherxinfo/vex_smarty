@@ -10,8 +10,8 @@
     "appzy_interstialStatus": "0",
     "appzy_nativeStatus": "1",
     "appzy_bannerStatus": "1",
-    "appzy_nativeOrBannerBigAd": "2",
-    "appzy_nativeOrBannerSmallAd": "2",
+    "appzy_nativeOrBannerBigAd": "1",
+    "appzy_nativeOrBannerSmallAd": "1",
     "appzy_nativeBigOnDemandAd": "1",
     "appzy_bannerBottomOnDemandAd": "1",
     "appzy_load_otherAd_beforeAd": "0",
@@ -42,6 +42,7 @@
     "appzy_otherAppOpenStatus": "0",
     "appzy_otherInterstitialStatus": "0",
     "appzy_otherNativeBannerStatus": "0",
+    "appzy_oneTimeRequest": "1"
     "appzy_screenAds": {
       "home": {
         "nativeId": "ca-app-pub-3940256099942544/2247696110",
