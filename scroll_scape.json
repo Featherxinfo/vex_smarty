@@ -1,7 +1,7 @@
 {
   "data": {
     "scroll_advShowStatus": "1",
-    "scroll_appOpenStatus": "0",
+    "scroll_appOpenStatus": "1",
 
     "scroll_appReviewVersionCodeAdsOnOff": "2",
 
@@ -15,15 +15,15 @@
     "scroll_screenAds": {
       "home": {
         "bannerId": "ca-app-pub-3940256099942544/6300978111",
-        "bannerEnabled": "0"
+        "bannerEnabled": "1"
       },
       "goals": {
         "bannerId": "ca-app-pub-3940256099942544/6300978111",
-        "bannerEnabled": "0"
+        "bannerEnabled": "1"
       },
       "trophies": {
         "bannerId": "ca-app-pub-3940256099942544/6300978111",
-        "bannerEnabled": "0"
+        "bannerEnabled": "1"
       },
       "insights": {
         "bannerId": "ca-app-pub-3940256099942544/6300978111",
