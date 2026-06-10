@@ -1,7 +1,7 @@
 {
   "data": {
     "scroll_advShowStatus": "1",
-    "scroll_appOpenStatus": "1",
+    "scroll_appOpenStatus": "0",
 
     "scroll_appReviewVersionCodeAdsOnOff": "2",
 
@@ -23,7 +23,7 @@
       },
       "trophies": {
         "bannerId": "ca-app-pub-3940256099942544/6300978111",
-        "bannerEnabled": "1"
+        "bannerEnabled": "0"
       },
       "insights": {
         "bannerId": "ca-app-pub-3940256099942544/6300978111",
