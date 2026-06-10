@@ -1,9 +1,9 @@
 {
   "data": {
-    "scroll_advShowStatus": "0",
+    "scroll_advShowStatus": "1",
     "scroll_appOpenStatus": "1",
 
-    "scroll_appReviewVersionCodeAdsOnOff": "2",
+    "scroll_appReviewVersionCodeAdsOnOff": "1",
 
     "scroll_appUpdateDialog": "0",
     "scroll_appVerCode": "0",
