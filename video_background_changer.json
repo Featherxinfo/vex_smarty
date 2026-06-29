@@ -3,10 +3,10 @@
   "data": {
     "appzy_advShowStatus": "1",
     "appzy_appOpenStatus": "1",
-    "appzy_appReviewVersionCodeAdsOnOff": "1",
+    "appzy_appReviewVersionCodeAdsOnOff": "4",
     "appzy_appUpdateTransferLink": "https://play.google.com/store/apps/details?id=online",
     "appzy_appUpdateDialog": "0",
-    "appzy_appVerCode": "4",
+    "appzy_appVerCode": "1",
     "appzy_interstialStatus": "1",
     "appzy_nativeStatus": "1",
     "appzy_bannerStatus": "1",
@@ -84,7 +84,7 @@
         "nativeId": "ca-app-pub-2296786317629837/1843644838",
         "bannerId": "ca-app-pub-2296786317629837/3996376908",
         "nativeEnabled": "1",
-        "bannerEnabled": "0"
+        "bannerEnabled": "1"
       },
       "creation_video_open": {
         "nativeId": "ca-app-pub-2296786317629837/8994120939",
