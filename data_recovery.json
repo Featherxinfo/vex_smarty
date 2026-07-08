@@ -52,6 +52,165 @@
     "appzy_otherAppOpenStatus": "0",
     "appzy_otherInterstitialStatus": "0",
     "appzy_otherNativeBannerStatus": "0",
+ "appzy_oneTimeRequest": "0",
+  "appzy_screenAds": {
+    "home": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "recover_photo": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "recover_photo_album": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "recover_photo_scan": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "recover_video": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "recover_video_album": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "recover_video_scan": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "recover_audio": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "recover_audio_album": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "recover_audio_scan": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "recover_contact": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "dup_main": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "dup_images": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "dup_videos": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "dup_audios": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "dup_documents": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "dup_others": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "dup_scanner_image": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "dup_scanner_video": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "dup_scanner_audio": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "dup_scanner_document": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "dup_scanner_other": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "restored_all": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "restored_photo": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "restored_video": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    },
+    "restored_audio": {
+      "nativeId": "ca-app-pub-3940256099942544/2247696110",
+      "bannerId": "ca-app-pub-3940256099942544/9214589741",
+      "nativeEnabled": "1",
+      "bannerEnabled": "1"
+    }
+  }
 
  
     "appzy_otherAdData": [
