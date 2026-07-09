@@ -42,121 +42,121 @@
       "home": {
         "nativeId": "ca-app-pub-2296786317629837/7553046750",
         "bannerId": "ca-app-pub-2296786317629837/4717220186",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "audio_activity": {
         "nativeId": "ca-app-pub-2296786317629837/3613801742",
         "bannerId": "ca-app-pub-2296786317629837/9777975172",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "all_audio_file": {
         "nativeId": "ca-app-pub-2296786317629837/5838730167",
         "bannerId": "ca-app-pub-2296786317629837/5642454894",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "all_audio_folder": {
         "nativeId": "ca-app-pub-2296786317629837/7257533289",
         "bannerId": "ca-app-pub-2296786317629837/8570614959",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "video_activity": {
         "nativeId": "ca-app-pub-2296786317629837/9692124939",
         "bannerId": "ca-app-pub-2296786317629837/3318288273",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "view_video": {
         "nativeId": "ca-app-pub-2296786317629837/5309458574",
         "bannerId": "ca-app-pub-2296786317629837/9722134856",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "output": {
         "nativeId": "ca-app-pub-2296786317629837/1843644838",
         "bannerId": "ca-app-pub-2296786317629837/3996376908",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "creation_video_open": {
         "nativeId": "ca-app-pub-2296786317629837/8994120939",
         "bannerId": "ca-app-pub-2296786317629837/9311071319",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "preview_audio": {
         "nativeId": "ca-app-pub-2296786317629837/6176385905",
         "bannerId": "ca-app-pub-2296786317629837/2847514981",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "video_trim": {
         "nativeId": "ca-app-pub-2296786317629837/4458199888",
         "bannerId": "ca-app-pub-2296786317629837/3550222560",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "image_folder": {
         "nativeId": "ca-app-pub-2296786317629837/9096723981",
         "bannerId": "ca-app-pub-2296786317629837/6740748290",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "image_file": {
         "nativeId": "ca-app-pub-2296786317629837/1725436780",
         "bannerId": "ca-app-pub-2296786317629837/3594784166",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "image_save": {
         "nativeId": "ca-app-pub-2296786317629837/2034290480",
         "bannerId": "ca-app-pub-2296786317629837/4660453823",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "music": {
         "nativeId": "ca-app-pub-2296786317629837/8408127146",
         "bannerId": "ca-app-pub-2296786317629837/9721208815",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "edit2": {
         "nativeId": "ca-app-pub-2296786317629837/8875031004",
         "bannerId": "ca-app-pub-2296786317629837/8463967467",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "animation_text": {
         "nativeId": "ca-app-pub-2296786317629837/3155800468",
         "bannerId": "ca-app-pub-2296786317629837/7150885798",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "extra_bg": {
         "nativeId": "ca-app-pub-2296786317629837/4935785995",
         "bannerId": "ca-app-pub-2296786317629837/6248867661",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "gallery_main": {
         "nativeId": "ca-app-pub-2296786317629837/9145238132",
         "bannerId": "ca-app-pub-2296786317629837/2309622659",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       },
       "gallery_album_display": {
         "nativeId": "ca-app-pub-2296786317629837/4333150761",
         "bannerId": "ca-app-pub-2296786317629837/5590392115",
-        "nativeEnabled": "1",
-        "bannerEnabled": "0"
+        "nativeEnabled": "0",
+        "bannerEnabled": "1"
       },
       "gallery_image_display": {
         "nativeId": "ca-app-pub-2296786317629837/8024983766",
         "bannerId": "ca-app-pub-2296786317629837/9338065433",
-        "nativeEnabled": "1",
+        "nativeEnabled": "0",
         "bannerEnabled": "1"
       }
     },
