@@ -144,9 +144,11 @@
       {
         "appzy_cust_name": "",
         "appzy_cust_url": "",
+        "appzy_cust_appopen_image": "",
         "appzy_cust_interstitial_image": "",
         "appzy_cust_small_native_image": "",
-        "appzy_cust_native_image": ""
+        "appzy_cust_native_image": "",
+        "appzy_cust_bigBanner_image": ""
       }
     ]
   }
