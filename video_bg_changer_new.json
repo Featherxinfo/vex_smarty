@@ -42,8 +42,8 @@
       "home": {
         "nativeId": "ca-app-pub-2296786317629837/7553046750",
         "bannerId": "ca-app-pub-2296786317629837/4717220186",
-        "nativeEnabled": "0",
-        "bannerEnabled": "1"
+        "nativeEnabled": "1",
+        "bannerEnabled": "0"
       },
       "audio_activity": {
         "nativeId": "ca-app-pub-2296786317629837/3613801742",
