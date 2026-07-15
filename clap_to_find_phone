@@ -1,8 +1,8 @@
 {
   "Note_For_appzy_interstialStatus": " 0 - off, 1 - on, 2 - on Demand",
   "data": {
-    "appzy_advShowStatus": "0",
-    "appzy_appOpenStatus": "0",
+    "appzy_advShowStatus": "1",
+    "appzy_appOpenStatus": "1",
     "appzy_appReviewVersionCodeAdsOnOff": "2",
     "appzy_appUpdateTransferLink": "https://play.google.com/store/apps/details?id=online",
     "appzy_appUpdateDialog": "0",
