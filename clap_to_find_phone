@@ -1,0 +1,156 @@
+{
+  "Note_For_appzy_interstialStatus": " 0 - off, 1 - on, 2 - on Demand",
+  "data": {
+    "appzy_advShowStatus": "0",
+    "appzy_appOpenStatus": "0",
+    "appzy_appReviewVersionCodeAdsOnOff": "3",
+    "appzy_appUpdateTransferLink": "https://play.google.com/store/apps/details?id=online",
+    "appzy_appUpdateDialog": "0",
+    "appzy_appVerCode": "1",
+    "appzy_interstialStatus": "1",
+    "appzy_nativeStatus": "1",
+    "appzy_bannerStatus": "1",
+    "appzy_appOpenId": "ca-app-pub-2296786317629837/1218233963",
+    "appzy_interstitialId": "ca-app-pub-2296786317629837/8819190684",
+    "appzy_bannerId": "",
+    "appzy_nativeId": "",
+    "appzy_forwardClick": "3",
+    "appzy_backClick": "0",
+    "appzy_securityWarning": "1",
+    "appzy_splashTime": "14",
+    "appzy_forceInternet": "1",
+    "appzy_viewAdLoadDialog": "1",
+    "appzy_playStoreRate": "1",
+    "appzy_normalRate": "1",
+    "appzy_nativeSBoxColor": "262626",
+    "appzy_nativeBgClr": "262626",
+    "appzy_nativeTitleClr": "FFFFFF",
+    "appzy_nativeButtonClr": "2196f3",
+    "appzy_nativeDescClr": "FFFFFF",
+    "appzy_nativeBox": "1",
+    "appzy_bannerBox": "1",
+    "appzy_nativeExitAd": "1",
+    "appzy_privacyScreen": "1",
+    "appzy_backInterShow": "0",
+    "appzy_privacyPolicy": "https://sites.google.com/view/smartyappssolutions/home",
+    "appzy_otherAdStatus": "0",
+    "appzy_otherAppOpenStatus": "0",
+    "appzy_otherInterstitialStatus": "0",
+    "appzy_otherNativeBannerStatus": "0",
+    "appzy_oneTimeRequest": "0",
+    "appzy_screenAds": {
+      "home": {
+        "nativeId": "ca-app-pub-2296786317629837/7553046750",
+        "bannerId": "ca-app-pub-2296786317629837/4717220186",
+        "adsPriority": "native"
+      },
+      "audio_activity": {
+        "nativeId": "ca-app-pub-2296786317629837/3613801742",
+        "bannerId": "ca-app-pub-2296786317629837/9777975172",
+        "adsPriority": "banner"
+      },
+      "all_audio_file": {
+        "nativeId": "ca-app-pub-2296786317629837/5838730167",
+        "bannerId": "ca-app-pub-2296786317629837/5642454894",
+        "adsPriority": "banner"
+      },
+      "all_audio_folder": {
+        "nativeId": "ca-app-pub-2296786317629837/7257533289",
+        "bannerId": "ca-app-pub-2296786317629837/8570614959",
+        "adsPriority": "banner"
+      },
+      "video_activity": {
+        "nativeId": "ca-app-pub-2296786317629837/9692124939",
+        "bannerId": "ca-app-pub-2296786317629837/3318288273",
+        "adsPriority": "banner"
+      },
+      "view_video": {
+        "nativeId": "ca-app-pub-2296786317629837/5309458574",
+        "bannerId": "ca-app-pub-2296786317629837/9722134856",
+        "adsPriority": "banner"
+      },
+      "output": {
+        "nativeId": "ca-app-pub-2296786317629837/1843644838",
+        "bannerId": "ca-app-pub-2296786317629837/3996376908",
+        "adsPriority": "banner"
+      },
+      "creation_video_open": {
+        "nativeId": "ca-app-pub-2296786317629837/8994120939",
+        "bannerId": "ca-app-pub-2296786317629837/9311071319",
+        "adsPriority": "banner"
+      },
+      "preview_audio": {
+        "nativeId": "ca-app-pub-2296786317629837/6176385905",
+        "bannerId": "ca-app-pub-2296786317629837/2847514981",
+        "adsPriority": "banner"
+      },
+      "video_trim": {
+        "nativeId": "ca-app-pub-2296786317629837/4458199888",
+        "bannerId": "ca-app-pub-2296786317629837/3550222560",
+        "adsPriority": "banner"
+      },
+      "image_folder": {
+        "nativeId": "ca-app-pub-2296786317629837/9096723981",
+        "bannerId": "ca-app-pub-2296786317629837/6740748290",
+        "adsPriority": "banner"
+      },
+      "image_file": {
+        "nativeId": "ca-app-pub-2296786317629837/1725436780",
+        "bannerId": "ca-app-pub-2296786317629837/3594784166",
+        "adsPriority": "banner"
+      },
+      "image_save": {
+        "nativeId": "ca-app-pub-2296786317629837/2034290480",
+        "bannerId": "ca-app-pub-2296786317629837/4660453823",
+        "adsPriority": "banner"
+      },
+      "music": {
+        "nativeId": "ca-app-pub-2296786317629837/8408127146",
+        "bannerId": "ca-app-pub-2296786317629837/9721208815",
+        "adsPriority": "banner"
+      },
+      "edit2": {
+        "nativeId": "ca-app-pub-2296786317629837/8875031004",
+        "bannerId": "ca-app-pub-2296786317629837/8463967467",
+        "adsPriority": "banner"
+      },
+      "animation_text": {
+        "nativeId": "ca-app-pub-2296786317629837/3155800468",
+        "bannerId": "ca-app-pub-2296786317629837/7150885798",
+        "adsPriority": "banner"
+      },
+      "extra_bg": {
+        "nativeId": "ca-app-pub-2296786317629837/4935785995",
+        "bannerId": "ca-app-pub-2296786317629837/6248867661",
+        "adsPriority": "banner"
+      },
+      "gallery_main": {
+        "nativeId": "ca-app-pub-2296786317629837/9145238132",
+        "bannerId": "ca-app-pub-2296786317629837/2309622659",
+        "adsPriority": "banner"
+      },
+      "gallery_album_display": {
+        "nativeId": "ca-app-pub-2296786317629837/4333150761",
+        "bannerId": "ca-app-pub-2296786317629837/5590392115",
+        "adsPriority": "banner"
+      },
+      "gallery_image_display": {
+        "nativeId": "ca-app-pub-2296786317629837/8024983766",
+        "bannerId": "ca-app-pub-2296786317629837/9338065433",
+        "adsPriority": "banner"
+      }
+    },
+    "appzy_otherAdData": [
+      {
+        "appzy_cust_name": "",
+        "appzy_cust_url": "https://www.google.com/",
+        "appzy_cust_appopen_image": "",
+        "appzy_cust_interstitial_image": "https://woopinfotech.com/app_data_images/yuELI6PqzPXXbSO5.png",
+        "appzy_cust_small_native_image": "https://woopinfotech.com/app_data_images/FGpZS3LrOGwyF9Vf.png",
+        "appzy_cust_native_image": "https://woopinfotech.com/app_data_images/kAX3rGd4WS2gLHaR.png",
+        "appzy_cust_banner_image": "https://i.ibb.co/N6phRSvG/Screenshot-20260710-113749-Live-Football-Score-Match.jpg",
+        "appzy_cust_bigBanner_image": ""
+      }
+    ]
+  }
+}
