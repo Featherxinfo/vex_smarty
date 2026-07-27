@@ -1,47 +1,33 @@
-
-
 {
-  "Note_For_appzy_interstialStatus":" 0 - off, 1 - on, 2 - on Demand",
+  "Note_For_appzy_interstialStatus": " 0 - off, 1 - on, 2 - on Demand",
   "data": {
-
-    "appzy_advShowStatus": "1",
-    "appzy_appOpenStatus": "1",
-
-    "appzy_appReviewVersionCodeAdsOnOff": "1",
-
-    
-    "appzy_appUpdateTransferLink": "",
+    "appzy_advShowStatus": "0",
+    "appzy_appOpenStatus": "0",
+    "appzy_appReviewVersionCodeAdsOnOff": "2",
+    "appzy_appUpdateTransferLink": "https://play.google.com/store/apps/details?id=online",
     "appzy_appUpdateDialog": "0",
-    "appzy_appVerCode": "0",
-    
-    "appzy_interstialStatus": "2",
-    "appzy_nativeStatus": "1",
-    "appzy_bannerStatus": "1",
-    "appzy_nativeOrBannerBigAd": "2",
-    "appzy_nativeOrBannerSmallAd": "1",
-
-    "appzy_nativeBigOnDemandAd": "1",
-    "appzy_bannerBottomOnDemandAd": "1",
-    "appzy_load_otherAd_beforeAd": "0",
-
+    "appzy_appVerCode": "1",
+    "appzy_interstialStatus": "0",
+    "appzy_nativeStatus": "0",
+    "appzy_bannerStatus": "0",
     "appzy_appOpenId": "ca-app-pub-3940256099942544/9257395921",
-    "appzy_bannerId": "ca-app-pub-3940256099942544/9214589741",
     "appzy_interstitialId": "ca-app-pub-3940256099942544/1033173712",
     "appzy_nativeId": "ca-app-pub-3940256099942544/2247696110",
-
+  "appzy_bannerId": "ca-app-pub-3940256099942544/9214589741",
+  "adsPriority": "banner",
     "appzy_forwardClick": "3",
     "appzy_backClick": "0",
     "appzy_securityWarning": "1",
     "appzy_splashTime": "14",
     "appzy_forceInternet": "1",
-    "appzy_viewAdLoadDialog": "0",
+    "appzy_viewAdLoadDialog": "1",
     "appzy_playStoreRate": "1",
     "appzy_normalRate": "1",
-    "appzy_nativeSBoxColor": "ffffff",
-    "appzy_nativeBgClr": "FAEBD7",
-    "appzy_nativeTitleClr": "000000",
+    "appzy_nativeSBoxColor": "262626",
+    "appzy_nativeBgClr": "262626",
+    "appzy_nativeTitleClr": "FFFFFF",
     "appzy_nativeButtonClr": "2196f3",
-    "appzy_nativeDescClr": "000000",
+    "appzy_nativeDescClr": "FFFFFF",
     "appzy_nativeBox": "1",
     "appzy_bannerBox": "1",
     "appzy_nativeExitAd": "1",
@@ -52,177 +38,18 @@
     "appzy_otherAppOpenStatus": "0",
     "appzy_otherInterstitialStatus": "0",
     "appzy_otherNativeBannerStatus": "0",
- "appzy_oneTimeRequest": "0",
-  "appzy_screenAds": {
-    "home": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "recover_photo": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "recover_photo_album": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "recover_photo_scan": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "recover_video": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "recover_video_album": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "recover_video_scan": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "recover_audio": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "recover_audio_album": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "recover_audio_scan": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "recover_contact": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "dup_main": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "dup_images": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "dup_videos": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "dup_audios": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "dup_documents": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "dup_others": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "dup_scanner_image": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "dup_scanner_video": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "dup_scanner_audio": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "dup_scanner_document": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "dup_scanner_other": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "restored_all": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "restored_photo": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "restored_video": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    },
-    "restored_audio": {
-      "nativeId": "ca-app-pub-3940256099942544/2247696110",
-      "bannerId": "ca-app-pub-3940256099942544/9214589741",
-      "nativeEnabled": "1",
-      "bannerEnabled": "1"
-    }
-  },
-
- 
+    "appzy_oneTimeRequest": "0",
     "appzy_otherAdData": [
       {
         "appzy_cust_name": "",
-        "appzy_cust_url": "",
+        "appzy_cust_url": "https://www.google.com/",
         "appzy_cust_appopen_image": "",
-        "appzy_cust_interstitial_image": "",
-        "appzy_cust_small_native_image": "",
-        "appzy_cust_native_image": "",
+        "appzy_cust_interstitial_image": "https://woopinfotech.com/app_data_images/yuELI6PqzPXXbSO5.png",
+        "appzy_cust_small_native_image": "https://woopinfotech.com/app_data_images/FGpZS3LrOGwyF9Vf.png",
+        "appzy_cust_native_image": "https://woopinfotech.com/app_data_images/kAX3rGd4WS2gLHaR.png",
+        "appzy_cust_banner_image": "https://i.ibb.co/N6phRSvG/Screenshot-20260710-113749-Live-Football-Score-Match.jpg",
         "appzy_cust_bigBanner_image": ""
       }
     ]
   }
-} 
+}
