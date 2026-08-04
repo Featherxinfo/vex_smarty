@@ -27,7 +27,8 @@
     "appzy_bannerId": "ca-app-pub-3940256099942544/9214589741",
     "appzy_interstitialId": "ca-app-pub-3940256099942544/1033173712",
     "appzy_nativeId": "ca-app-pub-3940256099942544/2247696110",
-
+"adsPriority": "banner",
+   "appzy_oneTimeRequest": 0,
     "appzy_forwardClick": "3",
     "appzy_backClick": "0",
     "appzy_securityWarning": "1",
