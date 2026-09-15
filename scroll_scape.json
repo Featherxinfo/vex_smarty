@@ -11,26 +11,26 @@
 
     "scroll_privacyPolicy": "https://sites.google.com/view/smartyappssolutions/home",
     
-    "scroll_appOpenId": "ca-app-pub-3940256099942544/9257395921",
+    "scroll_appOpenId": "ca-app-pub-2296786317629837/2918596319",
     "scroll_screenAds": {
       "home": {
-        "bannerId": "ca-app-pub-3940256099942544/6300978111",
+        "bannerId": "ca-app-pub-2296786317629837/3110168000",
         "bannerEnabled": "1"
       },
       "goals": {
-        "bannerId": "ca-app-pub-3940256099942544/6300978111",
+        "bannerId": "ca-app-pub-2296786317629837/3110168000",
         "bannerEnabled": "1"
       },
       "trophies": {
-        "bannerId": "ca-app-pub-3940256099942544/6300978111",
+        "bannerId": "ca-app-pub-2296786317629837/3110168000",
         "bannerEnabled": "1"
       },
       "insights": {
-        "bannerId": "ca-app-pub-3940256099942544/6300978111",
+        "bannerId": "ca-app-pub-2296786317629837/3110168000",
         "bannerEnabled": "1"
       },
       "settings": {
-        "bannerId": "ca-app-pub-3940256099942544/6300978111",
+        "bannerId": "ca-app-pub-2296786317629837/3110168000",
         "bannerEnabled": "1"
       }
     }
