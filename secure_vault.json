@@ -39,6 +39,8 @@
     "appzy_otherInterstitialStatus": "0",
     "appzy_otherNativeBannerStatus": "0",
     "appzy_oneTimeRequest": "0",
+    "privacyBtnClickOpenLink":"1",
+    "privacyBtnOpenLinkUrl":"https://www.google.com/?zx=1793867949411",
     "appzy_otherAdData": [
       {
         "appzy_cust_name": "",
