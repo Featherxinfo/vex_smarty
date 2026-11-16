@@ -47,97 +47,97 @@
       "audio_activity": {
         "nativeId": "ca-app-pub-2296786317629837/3613801742",
         "bannerId": "ca-app-pub-2296786317629837/9777975172",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "all_audio_file": {
         "nativeId": "ca-app-pub-2296786317629837/5838730167",
         "bannerId": "ca-app-pub-2296786317629837/5642454894",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "all_audio_folder": {
         "nativeId": "ca-app-pub-2296786317629837/7257533289",
         "bannerId": "ca-app-pub-2296786317629837/8570614959",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "video_activity": {
         "nativeId": "ca-app-pub-2296786317629837/9692124939",
         "bannerId": "ca-app-pub-2296786317629837/3318288273",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "view_video": {
         "nativeId": "ca-app-pub-2296786317629837/5309458574",
         "bannerId": "ca-app-pub-2296786317629837/9722134856",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "output": {
         "nativeId": "ca-app-pub-2296786317629837/1843644838",
         "bannerId": "ca-app-pub-2296786317629837/3996376908",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "creation_video_open": {
         "nativeId": "ca-app-pub-2296786317629837/8994120939",
         "bannerId": "ca-app-pub-2296786317629837/9311071319",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "preview_audio": {
         "nativeId": "ca-app-pub-2296786317629837/6176385905",
         "bannerId": "ca-app-pub-2296786317629837/2847514981",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "video_trim": {
         "nativeId": "ca-app-pub-2296786317629837/4458199888",
         "bannerId": "ca-app-pub-2296786317629837/3550222560",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "image_folder": {
         "nativeId": "ca-app-pub-2296786317629837/9096723981",
         "bannerId": "ca-app-pub-2296786317629837/6740748290",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "image_file": {
         "nativeId": "ca-app-pub-2296786317629837/1725436780",
         "bannerId": "ca-app-pub-2296786317629837/3594784166",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "image_save": {
         "nativeId": "ca-app-pub-2296786317629837/2034290480",
         "bannerId": "ca-app-pub-2296786317629837/4660453823",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "music": {
         "nativeId": "ca-app-pub-2296786317629837/8408127146",
         "bannerId": "ca-app-pub-2296786317629837/9721208815",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "edit2": {
         "nativeId": "ca-app-pub-2296786317629837/8875031004",
         "bannerId": "ca-app-pub-2296786317629837/8463967467",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "animation_text": {
         "nativeId": "ca-app-pub-2296786317629837/3155800468",
         "bannerId": "ca-app-pub-2296786317629837/7150885798",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "extra_bg": {
         "nativeId": "ca-app-pub-2296786317629837/4935785995",
         "bannerId": "ca-app-pub-2296786317629837/6248867661",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "gallery_main": {
         "nativeId": "ca-app-pub-2296786317629837/9145238132",
         "bannerId": "ca-app-pub-2296786317629837/2309622659",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "gallery_album_display": {
         "nativeId": "ca-app-pub-2296786317629837/4333150761",
         "bannerId": "ca-app-pub-2296786317629837/5590392115",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       },
       "gallery_image_display": {
         "nativeId": "ca-app-pub-2296786317629837/8024983766",
         "bannerId": "ca-app-pub-2296786317629837/9338065433",
-        "adsPriority": "banner"
+        "adsPriority": "native"
       }
     },
     "appzy_otherAdData": [
